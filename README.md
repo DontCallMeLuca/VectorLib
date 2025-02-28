@@ -54,8 +54,6 @@ vector3_t normalized = normalize_v3(v1);
 vector3_t cross = cross_v3(v1, v2);
 ```
 
-### 📚 Examples
-
 ### 🌐 API
 
 #### `vector3_t init_v3(float x, float y, float z)`
